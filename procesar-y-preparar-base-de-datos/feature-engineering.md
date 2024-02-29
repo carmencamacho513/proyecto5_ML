@@ -1,7 +1,8 @@
 ---
 description: >-
-  Esta etapa implica la creación de nuevas variables explicativas a partir de
-  las características existentes en los datos.
+  (Ingeniería de características)Esta etapa implica la creación de nuevas
+  variables explicativas a partir de las características existentes en los
+  datos.
 ---
 
 # Feature Engineering
